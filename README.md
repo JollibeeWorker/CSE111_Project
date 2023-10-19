@@ -1,7 +1,7 @@
 # CSE111 Project
 
 <details>
-  <summary>Checkpoint 1 Slides</summary><details>
+  <summary>Checkpoint 1 Slides</summary>
   <img src="Slides/1.png" name="1">
   <img src="Slides/2.png" name="2">
   <img src="Slides/3.png" name="3">
